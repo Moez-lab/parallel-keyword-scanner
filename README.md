@@ -42,7 +42,7 @@ npm run dev
 - Keywords should be comma-separated (e.g. apple, banana)
 - Choose exact match (e.g. only whole words)
 
-##📡 API (Optional Direct Call)
+## 📡 API (Optional Direct Call)
 
 POST /api/search
 
